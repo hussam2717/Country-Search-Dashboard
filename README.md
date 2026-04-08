@@ -31,4 +31,4 @@ Enter a country name in the search box
 Click on the Search button
 View country details dynamically fetched from API
 
-⭐ If you like this project, don't forget to give it a star!
+⭐ If you like this project, don't forget to give it a star!⭐
