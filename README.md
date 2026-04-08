@@ -21,6 +21,11 @@ CSS3
 JavaScript (Vanilla JS)
 REST API (for country data)
 
+📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
+
 💡 How It Works
 Enter a country name in the search box
 Click on the Search button
