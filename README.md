@@ -18,7 +18,7 @@ Languages
 🛠️ Tech Stack
 HTML5
 CSS3
-JavaScript (Vanilla JS)
+JavaScript
 REST API (for country data)
 
 📂 Project Structure
