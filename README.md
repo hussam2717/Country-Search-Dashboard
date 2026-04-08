@@ -1,5 +1,5 @@
-# Country-Search-Dashboard
-A simple and elegant web app to search and explore country information in real-time.
+## Country-Search-Dashboard
+A simple and elegant web App to search and explore country information in real-time.
 
 🔗 Live Demo - https://hussam2717.github.io/Country-Search-Dashboard/
 
